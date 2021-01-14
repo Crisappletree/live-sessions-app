@@ -25,7 +25,7 @@ Artist: recieve petitions for live sessions, accept or denie them.
 
 ### Blocks
 
-![Alt Blocks]./LiveSessions-doc/(blocks.png)
+![Alt React comonents](./LiveSessions-doc/blocks.png)
 
 ### Packages
 
